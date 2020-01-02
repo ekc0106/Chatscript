@@ -1,0 +1,288 @@
+﻿Start: user:ekc bot:harry ip: rand:3768 (~introductions) 0 ==> Welcome to ChatScript.  When:Jan02'20-21:49:46 Why:~introductions.1.0.~control.0.0  Version:9.8 Build0:Nov10'19-08:18:14 Build1:Nov10'19-08:18:24 0:Jan02'20-21:49:46 F:0 P:0
+Respond: user:ekc bot:harry ip: (~introductions) 0    ==> Have you been here before?  When:Jan02'20-21:49:49 Why:~introductions.2.0.~control.0.0   F:3ms 
+Respond: user:ekc bot:harry ip: (~childhood) 0    ==> Did you run away from home when you were little?  When:Jan02'20-21:49:55 Why:~childhood.0.0.~control.9.0   F:2ms 
+Respond: user:ekc bot:harry ip: (~childhood) 0    ==> I ran away once, but my parents found me and dragged me back.  When:Jan02'20-21:50:00 Why:~childhood.1.0=RUNAWAY.~control.9.0   F:3ms 
+Respond: user:ekc bot:harry ip: (~introductions) 1   what is your name ==> My name is Harry Potter.  When:Jan02'20-21:50:03 Why:~introductions.3.0.~control.9.0   F:5ms 
+Command: :build harry reset
+Start: user:ekc bot:harry ip: rand:3768 (~introductions) 0 ==> Welcome to ChatScript.  When:Jan02'20-21:50:33 Why:~introductions.1.0.~control.0.0  Version:9.8 Build0:Nov10'19-08:18:14 Build1:Jan02'20-21:50:21 0:Jan02'20-21:49:46 F:0 P:Jan02'20-21:50:03
+Respond: user:ekc bot:harry ip: (~introductions) 1   what is your name ==> Have you been here before?  When:Jan02'20-21:50:37 Why:~introductions.2.0.~control.9.0   F:616ms 
+Respond: user:ekc bot:harry ip: (~introductions) 1    ==> Hi.  When:Jan02'20-21:50:42 Why:~introductions.0.0.~control.0.0   F:1ms 
+Respond: user:ekc bot:harry ip: (~introductions) 1    ==> Welcome back  When:Jan02'20-21:50:45 Why:~introductions.0.0.~control.0.0   F:0ms 
+Respond: user:ekc bot:harry ip: (~introductions) 1    ==> Hello, again.  When:Jan02'20-21:50:49 Why:~introductions.0.0.~control.0.0   F:1ms 
+Respond: user:ekc bot:harry ip: (~introductions) 2   what is your name ==> It's hard to explain.  When:Jan02'20-21:50:55 Why:~honest_response.31.0.~quibble_all.12.0   F:2771ms 
+Respond: user:ekc bot:harry ip: (~introductions) 2    ==> Hi, again.  When:Jan02'20-21:50:59 Why:~introductions.0.0.~control.0.0   F:1ms 
+Command: :build harry reset
+Start: user:ekc bot:harry ip: rand:3768 (~introductions) 0 ==> Welcome to ChatScript.  When:Jan02'20-21:51:37 Why:~introductions.1.0.~control.0.0  Version:9.8 Build0:Nov10'19-08:18:14 Build1:Jan02'20-21:51:27 0:Jan02'20-21:49:46 F:0 P:Jan02'20-21:50:59
+Command: :restart
+Respond: user:ekc bot:harry ip: (~introductions) 0  ��Why:~introductions.2.0.~control.0.0  ==> Have you been here before?  When:Jan02'20-21:51:44 Why:~introductions.2.0.~control.0.0   F:2ms 
+Command: :reset
+Start: user:ekc bot:harry ip: rand:3768 (~introductions) 0 ==> Welcome to ChatScript.  When:Jan02'20-21:51:47 Why:~introductions.1.0.~control.0.0  Version:9.8 Build0:Nov10'19-08:18:14 Build1:Jan02'20-21:51:27 0:Jan02'20-21:49:46 F:0 P:Jan02'20-21:51:44
+Respond: user:ekc bot:harry ip: (~introductions) 0    ==> Have you been here before?  When:Jan02'20-21:51:51 Why:~introductions.2.0.~control.0.0   F:1ms 
+Respond: user:ekc bot:harry ip: (~childhood) 1   what is your name ==> Did you run away from home when you were little?  When:Jan02'20-21:51:55 Why:~childhood.0.0.~control.9.0   F:541ms 
+Respond: user:ekc bot:harry ip: (~introductions) 1    ==> Hi.  When:Jan02'20-21:51:58 Why:~introductions.0.0.~control.0.0   F:1ms 
+Respond: user:ekc bot:harry ip: (~introductions) 1    ==> Welcome back  When:Jan02'20-21:52:01 Why:~introductions.0.0.~control.0.0   F:0ms 
+Respond: user:ekc bot:harry ip: (~introductions) 1    ==> Hello, again.  When:Jan02'20-21:52:04 Why:~introductions.0.0.~control.0.0   F:0ms 
+Respond: user:ekc bot:harry ip: (~introductions) 1    ==> Glad you came back.  When:Jan02'20-21:52:06 Why:~introductions.0.0.~control.0.0   F:1ms 
+Command: :build harry reset
+Start: user:ekc bot:harry ip: rand:3768 (~introductions) 0 ==> Welcome to ChatScript.  When:Jan02'20-21:52:49 Why:~introductions.1.0.~control.0.0  Version:9.8 Build0:Nov10'19-08:18:14 Build1:Jan02'20-21:52:39 0:Jan02'20-21:49:46 F:0 P:Jan02'20-21:52:06
+Command: :restart
+Respond: user:ekc bot:harry ip: (~introductions) 0  ��Why:~introductions.2.0.~control.0.0  ==> Have you been here before?  When:Jan02'20-21:52:58 Why:~introductions.2.0.~control.0.0   F:2ms 
+Command: :reset
+Start: user:ekc bot:harry ip: rand:3768 (~introductions) 0 ==> Welcome to ChatScript.  When:Jan02'20-21:53:01 Why:~introductions.1.0.~control.0.0  Version:9.8 Build0:Nov10'19-08:18:14 Build1:Jan02'20-21:52:39 0:Jan02'20-21:49:46 F:0 P:Jan02'20-21:52:58
+Respond: user:ekc bot:harry ip: (~introductions) 0    ==> Have you been here before?  When:Jan02'20-21:53:04 Why:~introductions.2.0.~control.0.0   F:1ms 
+Respond: user:ekc bot:harry ip: (~childhood) 0    ==> Did you run away from home when you were little?  When:Jan02'20-21:53:07 Why:~childhood.0.0.~control.9.0   F:1ms 
+Respond: user:ekc bot:harry ip: (~childhood) 1   what is your name ==> I ran away once, but my parents found me and dragged me back.  When:Jan02'20-21:53:11 Why:~childhood.1.0=RUNAWAY.~control.9.0   F:659ms 
+Start: user:ekc bot:harry ip: rand:3770 (~introductions) 1 ==> Hi.  When:Jan02'20-21:53:28 Why:~introductions.0.0.~control.0.0  Version:9.8 Build0:Nov10'19-08:18:14 Build1:Jan02'20-21:52:39 0:Jan02'20-21:49:46 F:0 P:Jan02'20-21:53:11
+Respond: user:ekc bot:harry ip: (~introductions) 1    ==> Welcome back  When:Jan02'20-21:53:30 Why:~introductions.0.0.~control.0.0   F:1ms 
+Respond: user:ekc bot:harry ip: (~introductions) 2   what is your name ==> It's hard to explain.  When:Jan02'20-21:53:33 Why:~honest_response.31.0.~quibble_all.12.0   F:647ms 
+Respond: user:ekc bot:harry ip: (~childhood) 3   what is your name ==> What scared you as a kid?  When:Jan02'20-21:53:42 Why:~childhood.2.0.~control.9.0   F:507ms 
+Command: :build harry reset
+Start: user:ekc bot:harry ip: rand:3768 (~introductions) 0 ==> Welcome to ChatScript.  When:Jan02'20-21:53:58 Why:~introductions.1.0.~control.0.0  Version:9.8 Build0:Nov10'19-08:18:14 Build1:Jan02'20-21:53:48 0:Jan02'20-21:49:46 F:0 P:Jan02'20-21:53:42
+Respond: user:ekc bot:harry ip: (~introductions) 1   what is your name ==> My name is Harry Potter.  When:Jan02'20-21:54:01 Why:~introductions.3.0.~control.9.0   F:7ms 
+Command: :build harry reset
+Start: user:ekc bot:harry ip: rand:3768 (~introductions) 0 ==> Welcome to ChatScript.  When:Jan02'20-22:13:37 Why:~introductions.1.0.~control.0.0  Version:9.8 Build0:Nov10'19-08:18:14 Build1:Jan02'20-22:13:28 0:Jan02'20-21:49:46 F:0 P:Jan02'20-21:54:01
+Respond: user:ekc bot:harry ip: (~introductions) 0    ==> Have you been here before?  When:Jan02'20-22:13:42 Why:~introductions.2.0.~control.0.0   F:2ms 
+Respond: user:ekc bot:harry ip: (~childhood) 0    ==> Did you run away from home when you were little?  When:Jan02'20-22:13:48 Why:~childhood.0.0.~control.9.0   F:1ms 
+Respond: user:ekc bot:harry ip: (~childhood) 0    ==> I ran away once, but my parents found me and dragged me back.  When:Jan02'20-22:13:51 Why:~childhood.1.0=RUNAWAY.~control.9.0   F:1ms 
+Command: :restart
+Respond: user:ekc bot:harry ip: (~childhood) 0  ��Why:~childhood.2.0.~control.9.0  ==> What scared you as a kid?  When:Jan02'20-22:13:57 Why:~childhood.2.0.~control.9.0   F:3ms 
+Command: :reset
+Start: user:ekc bot:harry ip: rand:3768 (~introductions) 0 ==> Welcome to ChatScript.  When:Jan02'20-22:14:00 Why:~introductions.1.0.~control.0.0  Version:9.8 Build0:Nov10'19-08:18:14 Build1:Jan02'20-22:13:28 0:Jan02'20-21:49:46 F:0 P:Jan02'20-22:13:57
+Respond: user:ekc bot:harry ip: (~introductions) 0    ==> Have you been here before?  When:Jan02'20-22:14:05 Why:~introductions.2.0.~control.0.0   F:1ms 
+Command: :build harry reset
+Start: user:ekc bot:harry ip: rand:3768 (~introductions) 0 ==> Welcome to ChatScript.  When:Jan02'20-22:14:26 Why:~introductions.1.0.~control.0.0  Version:9.8 Build0:Nov10'19-08:18:14 Build1:Jan02'20-22:14:17 0:Jan02'20-21:49:46 F:0 P:Jan02'20-22:14:05
+Respond: user:ekc bot:harry ip: (~introductions) 1   what is your name ==> 내 이름은 규철이에요.  When:Jan02'20-22:14:41 Why:~introductions.3.0.~control.9.0   F:5ms 
+Respond: user:ekc bot:harry ip: (~introductions) 2   what is your name ==> It's hard to explain.  When:Jan02'20-22:14:47 Why:~honest_response.31.0.~quibble_all.12.0   F:572ms 
+Command: :build ekcbot
+Start: user:ekc bot:ekcbot ip: rand:3768 (~introductions) 0 ==> Welcome to ChatScript.  When:Jan02'20-22:20:44 Why:~introductions.1.0.~control.0.0  Version:9.8 Build0:Nov10'19-08:18:14 Build1:Jan02'20-22:20:40 0:Jan02'20-22:20:44 F:0 P:0
+Respond: user:ekc bot:ekcbot ip: (~introductions) 1   what is your name ==> 내 이름은 규철이에요.  When:Jan02'20-22:20:49 Why:~introductions.3.0.~control.9.0   F:5ms 
+Respond: user:ekc bot:ekcbot ip: (~introductions) 2   Hi ==> Have you been here before?  When:Jan02'20-22:20:54 Why:~introductions.2.0.~control.9.0   F:2ms 
+Respond: user:ekc bot:ekcbot ip: (~introductions) 3   yes ==> Welcome back!  When:Jan02'20-22:20:57 Why:~introductions.2.1.~control.9.0   F:1ms 
+Respond: user:ekc bot:ekcbot ip: (~childhood) 4   what is your name ==> Did you run away from home when you were little?  When:Jan02'20-22:21:01 Why:~childhood.0.0.~control.9.0   F:486ms 
+Command: :quit
+Exiting ChatScript via Quit
+Start: user:ekc bot:ekcbot ip: rand:3773 (~introductions) 4 ==> Hello, again.  When:Jan02'20-22:36:14 Why:~introductions.0.0.~control.0.0  Version:9.8 Build0:Nov10'19-08:18:14 Build1:Jan02'20-22:20:40 0:Jan02'20-22:20:44 F:0 P:Jan02'20-22:21:01
+Command: :source test.txt
+Command: :word 투애니원
+
+투애니원 (unknown word):
+  Properties: 
+  Changed to 투애니원
+ Implied: NOUN_INFINITIVE VERB_PRESENT VERB_INFINITIVE NOUN VERB ADJECTIVE ADVERB ADJECTIVE_NORMAL NOUN_SINGULAR 
+  SystemFlags: 
+Sourcefile Time used 215 ms for 0 sentences 0 tokens.
+Command: :word 
+Command: :source test.txt
+Command: :word 투애니원
+
+투애니원 (unknown word):
+  Properties: 
+  Changed to 투애니원
+ Implied: NOUN_INFINITIVE VERB_PRESENT VERB_INFINITIVE NOUN VERB ADJECTIVE ADVERB ADJECTIVE_NORMAL NOUN_SINGULAR 
+  SystemFlags: 
+Sourcefile Time used 236 ms for 0 sentences 0 tokens.
+Command: :build ekcbot reset
+Command: :build ekcbot reset
+Command: :quit
+Exiting ChatScript via Quit
+Command: :quit
+Exiting ChatScript via Quit
+Command: :quit
+Exiting ChatScript via Quit
+Command: :build reset harry
+Command: :build harry reset
+Start: user:ekc bot:harry ip: rand:3768 (~introductions) 0 ==> Welcome to ChatScript.  When:Jan02'20-23:00:47 Why:~introductions.1.0.~control.0.0  Version:9.8 Build0:Nov10'19-08:18:14 Build1:Jan02'20-23:00:37 0:Jan02'20-23:00:37 F:0 P:0
+Respond: user:ekc bot:harry ip: (~introductions) 1   what is your name ==> 내 이름은 규철이에요.  When:Jan02'20-23:00:50 Why:~introductions.3.0.~control.9.0   F:5ms 
+Command: :build ekcbot reset
+Command: :quit
+Exiting ChatScript via Quit
+Command: :build ekcbot reset
+Command: :build ekcbot reset
+Command: :build ekcbot reset
+Start: user:ekc bot:ekcbot ip: rand:3768 (~introductions) 0 ==> Welcome to ChatScript.  When:Jan02'20-23:12:29 Why:~introductions.1.0.~control.0.0  Version:9.8 Build0:Nov10'19-08:18:14 Build1:Jan02'20-23:12:25 0:Jan02'20-23:12:25 F:0 P:0
+Respond: user:ekc bot:ekcbot ip: (~introductions) 0    ==> Have you been here before?  When:Jan02'20-23:13:36 Why:~introductions.2.0.~control.0.0   F:2ms 
+Respond: user:ekc bot:ekcbot ip: (~introductions) 1   what is your name ==> 내 이름은 규철이에요.  When:Jan02'20-23:13:44 Why:~introductions.3.0.~control.9.0   F:4ms 
+Command: :build ekcbot reset
+Start: user:ekc bot:ekcbot ip: rand:3768 (~introductions) 0 ==> Welcome to ChatScript.  When:Jan02'20-23:13:56 Why:~introductions.1.0.~control.0.0  Version:9.8 Build0:Nov10'19-08:18:14 Build1:Jan02'20-23:13:52 0:Jan02'20-23:12:25 F:0 P:Jan02'20-23:13:44
+Respond: user:ekc bot:ekcbot ip: (~introductions) 1   hi ==> Have you been here before?  When:Jan02'20-23:13:59 Why:~introductions.2.0.~control.9.0   F:3ms 
+Respond: user:ekc bot:ekcbot ip: (~introductions) 2   what is your name ==> 내 이름은 규철이에요.  When:Jan02'20-23:14:04 Why:~introductions.3.0.~control.9.0   F:4ms 
+Respond: user:ekc bot:ekcbot ip: (~kpop) 3   what is your name ==> 혹시 K-POP 좋아하세요?  When:Jan02'20-23:14:08 Why:~kpop.0.0=KPOPINTRO.~control.9.0   F:556ms 
+Respond: user:ekc bot:ekcbot ip: (~introductions) 3    ==> Welcome back  When:Jan02'20-23:14:11 Why:~introductions.0.0.~control.0.0   F:0ms 
+Respond: user:ekc bot:ekcbot ip: (~introductions) 3    ==> Hello, again.  When:Jan02'20-23:14:26 Why:~introductions.0.0.~control.0.0   F:0ms 
+Command: :build ekcbot reset
+Start: user:ekc bot:ekcbot ip: rand:3768 (~introductions) 0 ==> Welcome to ChatScript.  When:Jan02'20-23:15:07 Why:~introductions.1.0.~control.0.0  Version:9.8 Build0:Nov10'19-08:18:14 Build1:Jan02'20-23:15:04 0:Jan02'20-23:12:25 F:0 P:Jan02'20-23:14:26
+Command: :word 
+Command: :source test.txt
+No such source file: test.txt
+Command: :source test.txt
+No such source file: test.txt
+Command: :build ekcbot reset
+Start: user:ekc bot:ekcbot ip: rand:3768 (~introductions) 0 ==> Welcome to ChatScript.  When:Jan02'20-23:19:30 Why:~introductions.1.0.~control.0.0  Version:9.8 Build0:Nov10'19-08:18:14 Build1:Jan02'20-23:19:26 0:Jan02'20-23:12:25 F:0 P:Jan02'20-23:14:26
+Command: :word 
+Command: :source test.txt
+No such source file: test.txt
+Command: :source test.txt
+No such source file: test.txt
+Command: :source test.txt
+No such source file: test.txt
+Command: :source test.txt
+No such source file: test.txt
+Command: :source test.txt
+Command: :word 투애니원
+
+투애니원 (269820): 
+  Properties: NOUN_PROPER_SINGULAR 
+  SystemFlags: pattern_word verb_takes_indirect_then_verbinfinitive 
+  ParseBits:   
+  InternalBits: 0x1000 utf8 
+  Other:     canonical: 투애니원 
+  Direct Sets: ~투애니원사전 ~투애니원 
+  Facts:
+    ( 투애니원 member ~투애니원사전 x10 )
+    ( 투애니원 member ~투애니원 x10 )
+
+Sourcefile Time used 323 ms for 0 sentences 0 tokens.
+Command: :word 
+Respond: user:ekc bot:ekcbot ip:127.0.0.1 (~introductions) 1  음악 좋아해요? ==> Have you been here before?  When:Jan02'20-23:27:06 Why:~introductions.2.0.~control.9.0   F:7ms 
+Command: :source test.txt
+Command: :testpattern ( 음악 좋아* ) 음악 좋아해요
+( 음악+ *좋아*(좋아해요)+ )+
+ Matched
+
+Sourcefile Time used 216 ms for 0 sentences 0 tokens.
+Command: :verify ~kpop
+VERIFYING ~kpop ......
+1 Missing keyword ~kpop.2.0 <=  음악 좋아해요?
+2 Missing keyword ~kpop.3.0 <=  투애니원을 좋아해요?
+Pattern failed to match 3 ~kpop.3.0:  투애니원을 좋아해요? => ?:  ( 투애니원 *좋아* ) 
+    Adjusted Input: 투애니원을 좋아해요 
+    Canonical Input: unknown-word unknown-word 
+
+3 verify findings of 2 trials.
+Command: :build ekcbot reset
+Start: user:ekc bot:ekcbot ip: rand:3768 (~introductions) 0 ==> Welcome to ChatScript.  When:Jan02'20-23:33:33 Why:~introductions.1.0.~control.0.0  Version:9.8 Build0:Nov10'19-08:18:14 Build1:Jan02'20-23:33:29 0:Jan02'20-23:12:25 F:0 P:Jan02'20-23:27:06
+Command: :restart
+System restarted Thu Jan 02 23:33:56 2020
+Respond: user:ekc bot:ekcbot ip:127.0.0.1 (~kpop) 1  음악 좋아해요? ==> 저는 K-POP 좋아해요.  When:Jan02'20-23:34:36 Why:~kpop.1.0=FAVEKPOP.~kpop.2.0   F:7ms 
+Command: :verify ~kpop keyword
+VERIFYING ~kpop ......
+1 Missing keyword ~kpop.3.0 <=  투애니원을 좋아해요?
+1 verify findings of 0 trials.
+Command: :build ekcbot reset
+Start: user:ekc bot:ekcbot ip: rand:3768 (~introductions) 0 ==> Welcome to ChatScript.  When:Jan02'20-23:37:28 Why:~introductions.1.0.~control.0.0  Version:9.8 Build0:Nov10'19-08:18:14 Build1:Jan02'20-23:37:24 0:Jan02'20-23:12:25 F:0 P:Jan02'20-23:34:36
+Command: :verify ~kpop keyword
+VERIFYING ~kpop ......
+1 Missing keyword ~kpop.4.0 <=  투애니원을 좋아해요?
+2 Missing keyword ~kpop.5.0 <=  티아라가 부르는 노래를 좋아해요?
+3 Missing keyword ~kpop.6.0 <=  좋아하는 가수가 있어요?
+3 verify findings of 0 trials.
+Command: :build ekcbot reset
+Start: user:ekc bot:ekcbot ip: rand:3768 (~introductions) 0 ==> Welcome to ChatScript.  When:Jan02'20-23:38:38 Why:~introductions.1.0.~control.0.0  Version:9.8 Build0:Nov10'19-08:18:14 Build1:Jan02'20-23:38:34 0:Jan02'20-23:12:25 F:0 P:Jan02'20-23:34:36
+Command: :verify ~kpop keyword
+VERIFYING ~kpop ......
+1 Missing keyword ~kpop.4.0 <=  투애니원을 좋아해요?
+2 Missing keyword ~kpop.5.0 <=  티아라가 부르는 노래를 좋아해요?
+3 Missing keyword ~kpop.6.0 <=  좋아하는 가수가 있어요?
+3 verify findings of 0 trials.
+Command: :topicinfo ~kpop keys
+
+Topic: ~kpop  
+  Keys:
+    
+  ~투애니원
+
+      투애니원       2ne1               twoanyone          뚜애니원       투에니원       
+  
+  ~티아라
+
+      티아라          TARA               t-ara              
+  
+  ~마마무
+
+      마마무          맘마무          mamamoo            
+  
+  ~노래
+
+      노래             곡                음악             kpop               가사             song               
+      공연             공연장          콘서트          컨서트          
+  가수             
+  Rules:
+Respond: user:ekc bot:ekcbot ip:127.0.0.1 (~introductions) 1  투애니원을 좋아해요? ==> Have you been here before?  When:Jan02'20-23:43:59 Why:~introductions.2.0.~control.9.0   F:5ms 
+Command: :build ekcbot reset
+Start: user:ekc bot:ekcbot ip: rand:3768 (~introductions) 0 ==> Welcome to ChatScript.  When:Jan02'20-23:44:16 Why:~introductions.1.0.~control.0.0  Version:9.8 Build0:Nov10'19-08:18:14 Build1:Jan02'20-23:44:11 0:Jan02'20-23:12:25 F:0 P:Jan02'20-23:43:59
+Command: :restart
+System restarted Thu Jan 02 23:44:39 2020
+Respond: user:ekc bot:ekcbot ip:127.0.0.1 (~introductions) 1  투애니원을 좋아해요? ==> Have you been here before?  When:Jan02'20-23:44:45 Why:~introductions.2.0.~control.9.0   F:8ms 
+Command: :restart
+System restarted Thu Jan 02 23:45:06 2020
+Command: :reset
+Start: user:ekc bot:ekcbot ip:127.0.0.1 rand:3768 (~introductions) 0 ==> Welcome to ChatScript.  When:Jan02'20-23:45:06 Why:~introductions.1.0.~control.0.0  Version:9.8 Build0:Nov10'19-08:18:14 Build1:Jan02'20-23:44:11 0:Jan02'20-23:12:25 F:0 P:Jan02'20-23:44:45
+Respond: user:ekc bot:ekcbot ip:127.0.0.1 (~introductions) 1  투애니원을 좋아해요? ==> Have you been here before?  When:Jan02'20-23:45:12 Why:~introductions.2.0.~control.9.0   F:2ms 
+Command: :build ekcbot reset
+Start: user:ekc bot:ekcbot ip: rand:3768 (~introductions) 0 ==> Welcome to ChatScript.  When:Jan02'20-23:47:41 Why:~introductions.1.0.~control.0.0  Version:9.8 Build0:Nov10'19-08:18:14 Build1:Jan02'20-23:47:36 0:Jan02'20-23:12:25 F:0 P:Jan02'20-23:45:12
+Respond: user:ekc bot:ekcbot ip:127.0.0.1 (~kpop) 1  음악 좋아해요? ==> 저는 K-POP 좋아해요.  When:Jan02'20-23:47:46 Why:~kpop.1.0=FAVEKPOP.~kpop.3.0   F:2ms 
+Respond: user:ekc bot:ekcbot ip:127.0.0.1 (~kpop) 2  투애니원 좋아해요? ==> 예. 저는 투애니원을 아주 좋아해요.  When:Jan02'20-23:47:52 Why:~kpop.4.0.~control.9.0   F:3ms 
+Respond: user:ekc bot:ekcbot ip:127.0.0.1 (~kpop) 3  투애니원을 좋아해요? ==> 혹시 K-POP 좋아하세요?  When:Jan02'20-23:48:02 Why:~kpop.0.0=KPOPINTRO.~control.9.0   F:5ms 
+Respond: user:ekc bot:ekcbot ip:127.0.0.1 (~kpop) 4  티아라가 부르는 노래를 좋아해요? ==> 저는 투애니원을 좋아해요.  When:Jan02'20-23:48:20 Why:~kpop.2.0=TNO.~control.9.0   F:5ms 
+Respond: user:ekc bot:ekcbot ip:127.0.0.1 (~childhood) 5  티아라가 부르는 노래를 좋아해요? ==> Did you run away from home when you were little?  When:Jan02'20-23:48:30 Why:~childhood.0.0.~control.9.0   F:8ms 
+Respond: user:ekc bot:ekcbot ip:127.0.0.1 (~kpop) 6  음악 좋아해요? ==> 저는 K-POP 좋아해요.  When:Jan02'20-23:48:33 Why:~kpop.1.0=FAVEKPOP.~kpop.3.0   F:4ms 
+Start: user:ekc bot:ekcbot ip:127.0.0.1 rand:3775 (~introductions) 6 ==> Hi.  When:Jan02'20-23:48:33 Why:~introductions.0.0.~control.0.0  Version:9.8 Build0:Nov10'19-08:18:14 Build1:Jan02'20-23:44:11 0:Jan02'20-23:12:25 F:0 P:Jan02'20-23:48:33
+Respond: user:ekc bot:ekcbot ip:127.0.0.1 (~introductions) 7  티아라 좋아해요? ==> Have you been here before?  When:Jan02'20-23:48:39 Why:~introductions.2.0.~control.9.0   F:6ms 
+Respond: user:ekc bot:ekcbot ip:127.0.0.1 (~kpop) 8  투애니원 좋아해요? ==> 예. 저는 투애니원을 아주 좋아해요.  When:Jan02'20-23:48:43 Why:~kpop.4.0.~control.9.0   F:3ms 
+Command: :restart
+System restarted Thu Jan 02 23:48:56 2020
+Command: :reset
+Start: user:ekc bot:ekcbot ip:127.0.0.1 rand:3768 (~introductions) 0 ==> Welcome to ChatScript.  When:Jan02'20-23:49:03 Why:~introductions.1.0.~control.0.0  Version:9.8 Build0:Nov10'19-08:18:14 Build1:Jan02'20-23:47:36 0:Jan02'20-23:12:25 F:0 P:Jan02'20-23:48:43
+Respond: user:ekc bot:ekcbot ip:127.0.0.1 (~introductions) 1  투애니원을 좋아해요? ==> Have you been here before?  When:Jan02'20-23:49:11 Why:~introductions.2.0.~control.9.0   F:4ms 
+Command: :build ekcbot reset
+Respond: user:ekc bot:ekcbot ip:127.0.0.1 (~kpop) 1  음악 좋아해요? ==> 저는 K-POP 좋아해요.  When:Jan02'20-23:49:45 Why:~kpop.1.0=FAVEKPOP.~kpop.3.0   F:6ms 
+Respond: user:ekc bot:ekcbot ip:127.0.0.1 (~kpop) 2  투애니원을 좋아해요? ==> 혹시 K-POP 좋아하세요?  When:Jan02'20-23:49:51 Why:~kpop.0.0=KPOPINTRO.~control.9.0   F:10ms 
+Respond: user:ekc bot:ekcbot ip:127.0.0.1 (~kpop) 3  투애니원 좋아해요? ==> 예. 저는 투애니원을 아주 좋아해요.  When:Jan02'20-23:49:56 Why:~kpop.4.0.~control.9.0   F:2ms 
+Command: :concepts 티아라
+티아라: 
+Command: :concepts 투애니원
+투애니원: 
+Respond: user:ekc bot:ekcbot ip:127.0.0.1 (~kpop) 4  concepts: 티아라가 ==> 저는 투애니원을 좋아해요.  When:Jan02'20-23:50:52 Why:~kpop.2.0=TNO.~control.9.0   F:35ms 
+Command: :concepts 티아라가
+티아라가: 
+Command: :concepts 
+Command: :source test.txt
+Command: :concepts 티아라가
+티아라가: 
+Sourcefile Time used 61 ms for 0 sentences 0 tokens.
+Command: :source test.txt
+Command: :concepts 티아라
+티아라: 
+Sourcefile Time used 50 ms for 0 sentences 0 tokens.
+Command: :source test.txt
+Command: :concept 티아라
+Respond: user:ekc bot:ekcbot ip: (~childhood) 5   :concept 티아라 ==> Did you run away from home when you were little?  When:Jan02'20-23:52:15 Why:~childhood.0.0.~control.9.0   F:102ms 
+Sourcefile Time used 132 ms for 1 sentences 2 tokens.
+Command: :source test.txt
+Command: :concept 티아라
+Respond: user:ekc bot:ekcbot ip: (~childhood) 6   :concept 티아라 ==>   When:Jan02'20-23:52:22   F:101ms 
+Sourcefile Time used 138 ms for 1 sentences 2 tokens.
+Command: :source test.txt
+Command: :concepts 티아라
+티아라: 
+Sourcefile Time used 52 ms for 0 sentences 0 tokens.
+Command: :build ekcbot reset
+Start: user:ekc bot:ekcbot ip: rand:3768 (~introductions) 0 ==> Welcome to ChatScript.  When:Jan02'20-23:53:12 Why:~introductions.1.0.~control.0.0  Version:9.8 Build0:Nov10'19-08:18:14 Build1:Jan02'20-23:53:08 0:Jan02'20-23:12:25 F:0 P:Jan02'20-23:52:22
+Command: :source test.txt
+Command: :concepts 티아라
+티아라: 
+Sourcefile Time used 47 ms for 0 sentences 0 tokens.
+Command: :build ekcbot reset
+Start: user:ekc bot:ekcbot ip: rand:3768 (~introductions) 0 ==> Welcome to ChatScript.  When:Jan03'20-00:11:53 Why:~introductions.1.0.~control.0.0  Version:9.8 Build0:Nov10'19-08:18:14 Build1:Jan03'20-00:11:48 0:Jan02'20-23:12:25 F:0 P:Jan02'20-23:52:22
+Command: :source test.txt
+Command: :concepts 티아라
+티아라: 
+Sourcefile Time used 55 ms for 0 sentences 0 tokens.
+Command: :restart
+System restarted Fri Jan 03 00:12:17 2020
+Command: :reset
+Start: user:ekc bot:ekcbot ip:127.0.0.1 rand:3768 (~introductions) 0 ==> Welcome to ChatScript.  When:Jan03'20-00:12:17 Why:~introductions.1.0.~control.0.0  Version:9.8 Build0:Nov10'19-08:18:14 Build1:Jan03'20-00:11:48 0:Jan02'20-23:12:25 F:0 P:Jan02'20-23:52:22
+Respond: user:ekc bot:ekcbot ip:127.0.0.1 (~kpop) 1  음악 좋아해요? ==> 저는 K-POP 좋아해요.  When:Jan03'20-00:12:21 Why:~kpop.1.0=FAVEKPOP.~kpop.3.0   F:5ms 
+Respond: user:ekc bot:ekcbot ip:127.0.0.1 (~kpop) 2  투애니원 좋아해요? ==> 예. 저는 투애니원을 아주 좋아해요.  When:Jan03'20-00:12:26 Why:~kpop.4.0.~control.9.0   F:3ms 
+Respond: user:ekc bot:ekcbot ip:127.0.0.1 (~kpop) 3  투애니원을 좋아해요? ==> 혹시 K-POP 좋아하세요?  When:Jan03'20-00:12:29 Why:~kpop.0.0=KPOPINTRO.~control.9.0   F:7ms 
+Respond: user:ekc bot:ekcbot ip:127.0.0.1 (~kpop) 4  음악 좋아해요? ==> 저는 K-POP 좋아해요.  When:Jan03'20-00:16:34 Why:~kpop.1.0=FAVEKPOP.~kpop.3.0   F:5ms 

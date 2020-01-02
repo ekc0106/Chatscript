@@ -1,0 +1,13 @@
+﻿Command: :source test.txt
+Command: :word 투애니원
+
+투애니원 (unknown word):
+  Properties: 
+  Changed to 투애니원
+ Implied: NOUN_INFINITIVE VERB_PRESENT VERB_INFINITIVE NOUN VERB ADJECTIVE ADVERB ADJECTIVE_NORMAL NOUN_SINGULAR 
+  SystemFlags: 
+Sourcefile Time used 216 ms for 0 sentences 0 tokens.
+Command: :restart
+Command: :reset
+Start: user:ekcbot bot: ip: rand:861 () 0 ==>   When:Jan02'20-22:53:26  Version:9.8 Build0:Nov10'19-08:18:14 Build1: 0:Jan02'20-22:53:26 F:0 P:0
+Command: :build ekcbot reset

@@ -1,0 +1,350 @@
+﻿
+# file: 0 full_path_to_file optional_botid
+# macro: start_line_in_file name_of_macro optional_botid (definition of user function)
+# line: start_line_in_file offset_byte_in_script (action unit in output) 
+# concept: start_line_in_file name_of_concept optional_botid (concept definition) 
+# topic: start_line_in_file name_of_topic optional_botid (topic definition) 
+# rule: start_line_in_file full_rule_tag_with_possible_label rule_kind (rule definition) 
+# Complexity of name_of_macro complexity_metric (complexity metric for function) 
+# Complexity of rule full_rule_tag_with_possible_label rule_kind complexity_metric (complexity metric for rule) 
+# bot: name_of_macro_it_happens_in botid (possible bot macro) 
+
+file: 0  C:/Users/kyucheol/Desktop/CS/ChatScript/../ekcbot/childhood.top
+    topic: 2  ~childhood
+        rule: 6  ~childhood.0.0- t: 
+          line: 6 0  # Did you run away from home whe
+          Complexity of rule ~childhood.0.0- t: 1
+        rule: 9  ~childhood.0.1 a: 
+          line: 9 0  # Was it fun? 
+          Complexity of rule ~childhood.0.1- a: 1
+        rule: 12  ~childhood.0.2 a: 
+          line: 12 0  # You should try it some time. T
+          Complexity of rule ~childhood.0.2- a: 1
+        rule: 14  ~childhood.1.0-RUNAWAY t: 
+          line: 14 0  # I ran away once, but my parent
+          Complexity of rule ~childhood.1.0-RUNAWAY t: 1
+        rule: 16  ~childhood.2.0- t: 
+          line: 16 0  # What scared you as a kid? 
+          Complexity of rule ~childhood.2.0- t: 1
+        rule: 19  ~childhood.2.1 a: 
+          line: 19 0  # Did you use a nightlite? 
+          Complexity of rule ~childhood.2.1- a: 1
+        rule: 22  ~childhood.2.2 a: 
+          line: 22 0  # Food? How weird. 
+          Complexity of rule ~childhood.2.2- a: 1
+        rule: 25  ~childhood.2.3 a: 
+          line: 25 0  # There are no non-human monster
+          Complexity of rule ~childhood.2.3- a: 1
+        rule: 28  ~childhood.2.4 a: 
+          line: 28 0  # I guess your parents didn't te
+          Complexity of rule ~childhood.2.4- a: 1
+        rule: 31  ~childhood.2.5 a: 
+          line: 31 0  # Are you afraid of all insects?
+          Complexity of rule ~childhood.2.5- a: 1
+        rule: 34  ~childhood.2.6 a: 
+          line: 34 0  # You and Indiana Jones. Snakes 
+          Complexity of rule ~childhood.2.6- a: 1
+        rule: 37  ~childhood.2.7 a: 
+          line: 37 0  # Big animals are scary. Tiny on
+          Complexity of rule ~childhood.2.7- a: 1
+        rule: 40  ~childhood.2.8 a: 
+          line: 40 0  # Do you still have bad dreams n
+          Complexity of rule ~childhood.2.8- a: 1
+        rule: 43  ~childhood.2.9 b: 
+          line: 43 0  # That's too bad. Maybe you shou
+          Complexity of rule ~childhood.2.9- b: 1
+        rule: 46  ~childhood.2.10 b: 
+          line: 46 0  # I guess you no longer go to ho
+          Complexity of rule ~childhood.2.10- b: 1
+        rule: 48  ~childhood.3.0-SCARE t: 
+          line: 48 0  # I was scared of machines. I ha
+          Complexity of rule ~childhood.3.0-SCARE t: 1
+        rule: 50  ~childhood.4.0- t: 
+          line: 50 0  # Did you have a happy childhood
+          Complexity of rule ~childhood.4.0- t: 1
+        rule: 53  ~childhood.5.0 u: 
+          line: 53 0  # ^reuse ( RUNAWAY ) 
+          Complexity of rule ~childhood.5.0- u: 1
+        rule: 56  ~childhood.6.0-HAPPY u: 
+          line: 56 0  # I was happy as a kid. 
+          Complexity of rule ~childhood.6.0-HAPPY u: 1
+        rule: 59  ~childhood.7.0 u: 
+          line: 59 0  # ^reuse ( HAPPY ) 
+          Complexity of rule ~childhood.7.0- u: 1
+        rule: 62  ~childhood.8.0 u: 
+          line: 62 0  # ^reuse ( SCARE ) 
+          Complexity of rule ~childhood.8.0- u: 1
+        rule: 65  ~childhood.9.0 u: 
+          line: 65 0  # I remember playing with an HO 
+          Complexity of rule ~childhood.9.0- u: 1
+        rule: 68  ~childhood.10.0 u: 
+          line: 68 0  # I was born. I survived childho
+          Complexity of rule ~childhood.10.0- u: 1
+file: 0  C:/Users/kyucheol/Desktop/CS/ChatScript/../ekcbot/introductions.top
+    topic: 2  ~introductions
+        rule: 5  ~introductions.0.0 t: 
+          line: 6 0  # ^keep ( ) 
+          line: 7 10  # [ Welcome back ] [ Hello, agai
+          Complexity of rule ~introductions.0.0- t: 1
+        rule: 10  ~introductions.1.0 t: 
+          line: 11 0  # ^keep ( ) 
+          line: 12 10  # Welcome to ChatScript. 
+          Complexity of rule ~introductions.1.0- t: 1
+        rule: 15  ~introductions.2.0- t: 
+          line: 15 0  # Have you been here before? 
+          Complexity of rule ~introductions.2.0- t: 1
+        rule: 17  ~introductions.2.1 a: 
+          line: 17 0  # Welcome back! 
+          Complexity of rule ~introductions.2.1- a: 1
+        rule: 19  ~introductions.2.2 a: 
+          line: 19 0  # Then welcome to your first tim
+          Complexity of rule ~introductions.2.2- a: 1
+        rule: 22  ~introductions.3.0 u: 
+          line: 22 0  # 내 이름은 
+          Complexity of rule ~introductions.3.0- u: 1
+file: 0  C:/Users/kyucheol/Desktop/CS/ChatScript/../ekcbot/keywordless.top
+    topic: 4  ~keywordless
+        rule: 6  ~keywordless.0.0 u: 
+          line: 6 0  # ^keep ( ) ^repeat ( ) '_0 
+          Complexity of rule ~keywordless.0.0- u: 1
+        rule: 9  ~keywordless.1.0 ?: 
+          line: 9 0  # If you believe in reincarnatio
+          Complexity of rule ~keywordless.1.0- ?: 1
+        rule: 13  ~keywordless.2.0 u: 
+          line: 13 0  # ^keep ( ) ^gambit ( $$currentt
+          Complexity of rule ~keywordless.2.0- u: 1
+        rule: 17  ~keywordless.3.0 ?: 
+          line: 17 0  # ^keep ( ) $$tmp = '_0 
+          line: 18 22  # $$url = ^"\"https://en.wikiped
+          line: 20 177  # $$user_agent = ^"myemail@hotma
+          line: 21 299  # $$tmp = ^jsonopen ( GET $$url 
+          line: 24 347  # @0 = ^query ( direct_v ? extra
+          line: 25 386  # @0object 
+          Complexity of rule ~keywordless.3.0- ?: 1
+        rule: 30  ~keywordless.4.0 ?: 
+          line: 30 0  # ^keep ( ) 
+          line: 31 10  # $$tmp = ^pos ( capitalize ^ori
+          line: 37 55  # $$url = ^"\"https://en.wikiped
+          line: 38 210  # $$user_agent = ^"myemail@hotma
+          line: 39 332  # $$tmp = ^jsonopen ( GET $$url 
+          line: 42 380  # @0 = ^query ( direct_v ? extra
+          Complexity of rule ~keywordless.4.0- ?: 1
+file: 0  C:/Users/kyucheol/Desktop/CS/ChatScript/../ekcbot/kpop.top
+    topic: 2  ~kpop
+        rule: 4  ~kpop.0.0-KPOPINTRO t: 
+          line: 4 0  # 혹시 K-POP 좋아하세요? 
+          Complexity of rule ~kpop.0.0-KPOPINTRO t: 1
+        rule: 5  ~kpop.1.0-FaveKPOP t: 
+          line: 5 0  # 저는 K-POP 좋아해요. 
+          Complexity of rule ~kpop.1.0-FAVEKPOP t: 1
+        rule: 6  ~kpop.2.0-TNO t: 
+          line: 6 0  # 저는 투애니원을 좋아�
+          Complexity of rule ~kpop.2.0-TNO t: 1
+        rule: 9  ~kpop.3.0 ?: 
+          line: 9 0  # ^reuse ( FaveKPOP ) 
+          Complexity of rule ~kpop.3.0- ?: 1
+        rule: 12  ~kpop.4.0 ?: 
+          line: 12 0  # 예. 저는 투애니원을 �
+          Complexity of rule ~kpop.4.0- ?: 1
+        rule: 15  ~kpop.5.0 ?: 
+          line: 15 0  # 아니오. 티아라는 별로
+          Complexity of rule ~kpop.5.0- ?: 1
+        rule: 18  ~kpop.6.0 ?: 
+          Complexity of rule ~kpop.6.0- ?: 1
+file: 0  C:/Users/kyucheol/Desktop/CS/ChatScript/../ekcbot/kpopconcept.top
+    concept: 2  ~투애니원사전
+    concept: 3  ~티아라사전
+    concept: 4  ~마마무사전
+    concept: 6  ~투애니원
+    concept: 7  ~티아라
+    concept: 8  ~마마무
+    concept: 9  ~노래
+    macro: 11  ^nounpluspp
+          loop 13 6  
+          line: 13 0  # ^loop ( -1 ) aaa 
+          line: 14 17  # { 
+          line: 15 19  # $$element = ^iterator ( ? memb
+          line: 16 57  # $$tmp = ^join ( $$element ^1 )
+          line: 17 88  # ^createfact ( $$tmp memeber $$
+          loopend 19 130  
+          line: 19 128  # } 
+          Complexity of ^nounpluspp: 1
+    macro: 21  ^addelement
+          loop 23 6  
+          line: 23 0  # ^loop ( -1 ) aaa 
+          line: 24 17  # { 
+          line: 25 19  # $$element = ^iterator ( ? memb
+          line: 26 57  # ^query ( ? member $$element ) 
+          line: 27 87  # ^createfact ( @0subject member
+          line: 28 123  # ^createfact ( @0subject member
+          loopend 29 161  
+          line: 29 159  # } 
+          Complexity of ^addelement: 1
+file: 0  C:/Users/kyucheol/Desktop/CS/ChatScript/../ekcbot/simplecontrol.top
+    macro: 6  ^ekcbot
+          line: 8 0  # $cs_token = 4096 | 255 | 512 |
+          line: 9 60  # $cs_token += 67108864 | 65536 
+          line: 10 100  # $cs_token -= 8 
+          line: 13 115  # ^addtopic ( ~introductions ) 
+          line: 15 144  # $cs_control_main = ~control 
+          line: 18 172  # $userprompt = ^"%user: >" 
+          line: 19 198  # $botprompt = ^"ekcbot: " 
+          line: 24 223  # $singleresponse = 1 
+          line: 27 243  # $shutup = 1 
+          Complexity of ^ekcbot: 1
+    topic: 38  ~control
+        rule: 41  ~control.0.0 u: 
+          line: 42 0  # ^gambit ( ~introductions ) 
+          Complexity of rule ~control.0.0- u: 1
+        rule: 45  ~control.1.0 u: 
+          line: 45 0  # $shutup = 1 
+          Complexity of rule ~control.1.0- u: 1
+        rule: 47  ~control.2.0 u: 
+          line: 47 0  # $shutup = null 
+          Complexity of rule ~control.2.0- u: 1
+        rule: 50  ~control.3.0 u: 
+          line: 50 0  # Callback seen. 
+          Complexity of rule ~control.3.0- u: 1
+        rule: 51  ~control.4.0 u: 
+          line: 51 0  # Loopback seen. 
+          Complexity of rule ~control.4.0- u: 1
+        rule: 52  ~control.5.0 u: 
+          line: 52 0  # Alarm seen. 
+          Complexity of rule ~control.5.0- u: 1
+        rule: 53  ~control.6.0 u: 
+          line: 53 0  # \[ loopback=1000 \] Loopback r
+          Complexity of rule ~control.6.0- u: 1
+        rule: 54  ~control.7.0 u: 
+          line: 54 0  # \[ callback=1000 \] Callback r
+          Complexity of rule ~control.7.0- u: 1
+        rule: 55  ~control.8.0 u: 
+          line: 55 0  # \[ alarm=5000 \] Alarm request
+          Complexity of rule ~control.8.0- u: 1
+        rule: 57  ~control.9.0 u: 
+          line: 58 0  # $_responsecount = %response 
+          if 62 32  
+          ifend 62 85  
+          line: 62 28  # ^if 00n( $singleresponse ) 00v
+          line: 64 86  # $$currenttopic = %topic 
+          if 66 114  
+          ifend 66 193  
+          line: 66 110  # ^if 00A( %response == $_respon
+          if 68 198  
+          line: 68 194  # ^if 00R( %length == 0 and %res
+          line: 69 254  # { 
+          line: 70 256  # ^nofail ( TOPIC ^gambit ( $$cu
+          ifend 71 306  
+          line: 71 301  # } 004 
+          if 73 311  
+          ifend 73 403  
+          line: 73 307  # ^if 00A( %response == $_respon
+          if 75 408  
+          line: 75 404  # ^if 00A( %response == $_respon
+          line: 76 447  # { 
+          line: 77 449  # @8 = ^keywordtopics ( ) 
+          loop 78 479  
+          line: 78 473  # ^loop ( -1 ) aaa 
+          line: 79 490  # { 
+          line: 80 492  # $$topic = ^first ( @8subject )
+          line: 81 523  # ^nofail ( TOPIC ^respond ( $$t
+          if 82 566  
+          line: 82 562  # ^if 00A( %response != $_respon
+          line: 83 605  # { 
+          line: 84 607  # ^end ( RULE ) 
+          ifend 85 626  
+          line: 85 621  # } 004 
+          loopend 86 629  
+          line: 86 627  # } 
+          ifend 87 634  
+          line: 87 629  # } 004 
+          if 90 639  
+          line: 90 635  # ^if 00A( %response == $_respon
+          line: 91 678  # { 
+          line: 92 680  # ^nofail ( TOPIC ^respond ( ~ke
+          ifend 93 729  
+          line: 93 724  # } 004 
+          if 98 734  
+          line: 98 730  # ^if 00P( %response == $_respon
+          line: 99 788  # { 
+          line: 100 790  # ^nofail ( TOPIC ^respond ( ~qu
+          ifend 101 839  
+          line: 101 834  # } 004 
+          if 104 844  
+          line: 104 840  # ^if 00F( %outputrejoinder or %
+          line: 105 888  # { 
+          line: 106 890  # ^end ( TOPIC ) 
+          ifend 107 910  
+          line: 107 905  # } 004 
+          if 109 915  
+          ifend 109 1037  
+          line: 109 911  # ^if 00%( %response == $_respon
+          if 111 1042  
+          line: 111 1038  # ^if 00A( %response == $_respon
+          line: 112 1081  # { 
+          line: 113 1083  # @8 = ^keywordtopics ( ) 
+          loop 114 1113  
+          line: 114 1107  # ^loop ( -1 ) aaa 
+          line: 115 1124  # { 
+          line: 116 1126  # $$topic = ^first ( @8subject )
+          line: 117 1157  # ^nofail ( TOPIC ^gambit ( $$to
+          if 118 1199  
+          line: 118 1195  # ^if 00A( %response != $_respon
+          line: 119 1238  # { 
+          line: 120 1240  # ^end ( RULE ) 
+          ifend 121 1259  
+          line: 121 1254  # } 004 
+          loopend 122 1262  
+          line: 122 1260  # } 
+          ifend 123 1267  
+          line: 123 1262  # } 004 
+          if 124 1272  
+          ifend 124 1363  
+          line: 124 1268  # ^if 00A( %response == $_respon
+          if 126 1368  
+          line: 126 1364  # ^if 00A( %response == $_respon
+          line: 127 1407  # { 
+          line: 128 1409  # @8 = ^gambittopics ( ) 
+          loop 129 1438  
+          line: 129 1432  # ^loop ( -1 ) aaa 
+          line: 130 1449  # { 
+          line: 131 1451  # $$topic = ^pick ( @8subject ) 
+          line: 132 1481  # ^nofail ( TOPIC ^gambit ( $$to
+          if 133 1523  
+          line: 133 1519  # ^if 00A( %response != $_respon
+          line: 134 1562  # { 
+          line: 135 1564  # ^end ( RULE ) 
+          ifend 136 1583  
+          line: 136 1578  # } 004 
+          loopend 137 1586  
+          line: 137 1584  # } 
+          ifend 138 1591  
+          line: 138 1586  # } 004 
+          if 140 1596  
+          line: 140 1592  # ^if 00A( %response == $_respon
+          line: 141 1635  # { 
+          line: 142 1637  # ^repeat ( ) 
+          line: 143 1649  # I don't know what to say. 
+          ifend 144 1680  
+          line: 144 1675  # } 004 
+          Complexity of rule ~control.9.0- u: 17
+    topic: 147  ~xpostprocess
+        rule: 149  ~xpostprocess.0.0 t: 
+          loop 150 6  
+          line: 150 0  # ^loop ( -1 ) aaa 
+          line: 151 17  # { 
+          line: 152 19  # $$tmp = ^last ( @9subject ) 
+          if 153 51  
+          line: 153 47  # ^if 00O( ! %server and %os == 
+          line: 154 104  # { 
+          line: 155 106  # $$tmp = ^"talk \"$$tmp\" " 
+          line: 156 133  # ^popen ( $$tmp null ) 
+          ifend 157 160  
+          line: 157 155  # } 004 
+          if 158 165  
+          line: 158 161  # ^if 00K( ! %server and %os == 
+          line: 159 214  # { 
+          line: 160 216  # $$shellerror = ^system ( "^say
+          ifend 161 266  
+          line: 161 261  # } 004 
+          loopend 163 269  
+          Complexity of rule ~xpostprocess.0.0- t: 3

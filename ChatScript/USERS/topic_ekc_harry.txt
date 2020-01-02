@@ -1,0 +1,27 @@
+USERS/topic_ekc_harry.txt
+jul2116 Jan02'20-23:00:37 Jan02'20-23:00:50 0 |
+1 1 0 DY 0 22 22 0 # start, input#, no rejoinder, #0topics, #1topics, layer2
+~introductions #pending
+~introductions + 1 $KEp8 ba 1 0 0 
+#`end topics
+$cs_randindex=3768
+$cs_bot=Harry
+$cs_login=ekc
+$cs_token=75726583
+$cs_control_main=~control
+$userprompt=ekc: >
+$botprompt=HARRY: 
+$singleresponse=1
+$shutup=1
+$cs_trace=0
+$cs_time=0
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context 
+ what is your name
+#`end user
+ Welcome to ChatScript.
+ 내 이름은 규철이에요.
+#`end chatbot

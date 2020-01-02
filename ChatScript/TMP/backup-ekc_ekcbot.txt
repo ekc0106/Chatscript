@@ -1,0 +1,24 @@
+﻿USERS/topic_ekc_ekcbot.txt
+jul2116 Jan02'20-23:12:25 Jan02'20-23:52:22 0 |
+1 0 0 DY 0 6 6 0 # start, input#, no rejoinder, #0topics, #1topics, layer2
+~introductions #pending
+#`end topics
+$shutup=1
+$singleresponse=1
+$botprompt=ekcbot: 
+$userprompt=ekc: >
+$cs_control_main=~control
+$cs_token=75726583
+$cs_login=ekc
+$cs_bot=Ekcbot
+$cs_randindex=3768
+$cs_trace=0
+$cs_time=0
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context 
+#`end user
+ Welcome to ChatScript.
+#`end chatbot

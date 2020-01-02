@@ -1,0 +1,180 @@
+﻿System startup createsystem Thu Jan 02 21:41:04 2020
+Server ChatScript Release Version 9.8 pid: 0 32 bit Windows compiled Nov 10 2019 08:28:05 host=0.0.0.0
+Params:   dict:2097151 fact:800000 text:100000kb hash:215127 
+          buffer:80x80kb cache:1x5000kb userfacts:100 outputlimit:80000 loglimit:80000
+Build0:  dict=68809  fact=129359  heap=1157724 Compiled:Nov10'19-08:18:14 by version 9.8 "0"
+Build1:  dict=147  fact=15  heap=330836 Compiled:Nov10'19-08:18:24 by version 9.8 "harry"
+Used 56MB: dict 269,963 (21597kb) hashdepths 241.1216.3388.5943.7917.8609.7746.6003.4008.2430.1326.677.284.140.44.20.7.1.1. words 269963 unusedbuckets 241 fact 215,677 (10352kb) heap 13494kb
+           buffer (6400kb) cache (5000kb)
+Free 114MB: dict 1,827,187 fact 584,323 stack/heap 86,506KB 
+
+    *** Server WIDE OPEN to :command use.
+
+
+======== Began server 9.8 compiled Nov 10 2019 08:28:05 on host 0.0.0.0 port 1024 at Thu Jan 02 21:41:08 2020 serverlog:1 userlog: 1
+Server ready - logfile:LOGS/serverlog1024.txt serverLog:1 userLog:1 crashpath: 
+
+System startup createsystem Thu Jan 02 23:25:06 2020
+Server ChatScript Release Version 9.8 pid: 0 32 bit Windows compiled Nov 10 2019 08:28:05 host=0.0.0.0
+Params:   dict:2097151 fact:800000 text:100000kb hash:215127 
+          buffer:80x80kb cache:1x5000kb userfacts:100 outputlimit:80000 loglimit:80000
+Build0:  dict=68809  fact=129359  heap=1157724 Compiled:Nov10'19-08:18:14 by version 9.8 "0"
+Build1:  dict=31  fact=41  heap=128156 Compiled:Jan02'20-23:19:26 by version 9.8 "ekcbot"
+Used 56MB: dict 269,847 (21587kb) hashdepths 241.1219.3396.5949.7916.8610.7752.5989.4011.2421.1328.671.286.139.44.20.7.1.1. words 269847 unusedbuckets 241 fact 215,703 (10353kb) heap 13291kb
+           buffer (6400kb) cache (5000kb)
+Free 114MB: dict 1,827,303 fact 584,297 stack/heap 86,708KB 
+
+    *** Server WIDE OPEN to :command use.
+
+
+======== Began server 9.8 compiled Nov 10 2019 08:28:05 on host 0.0.0.0 port 1024 at Thu Jan 02 23:25:09 2020 serverlog:1 userlog: 1
+Server ready - logfile:LOGS/serverlog1024.txt serverLog:1 userLog:1 crashpath: 
+
+ServerPre: pid: x ekc (ekcbot) size:20 음악 좋아해요? Jan 02 23:27:06 2020
+Respond: user:ekc bot:ekcbot ip:127.0.0.1 (~introductions) 1 음악 좋아해요?  ==> Have you been here before?  When:Jan02 23:27:06 63ms Why:~introductions.2.0.~control.9.0 
+ServerPre: pid: x ekc (ekcbot) size:8 :restart Jan 02 23:33:51 2020
+System startup createsystem Thu Jan 02 23:33:51 2020
+Server ChatScript Release Version 9.8 pid: 0 32 bit Windows compiled Nov 10 2019 08:28:05 host=0.0.0.0
+Params:   dict:2097151 fact:800000 text:100000kb hash:50000 
+          buffer:80x80kb cache:1x5000kb userfacts:100 outputlimit:80000 loglimit:80000
+Build0:  dict=68809  fact=129359  heap=1157724 Compiled:Nov10'19-08:18:14 by version 9.8 "0"
+Build1:  dict=40  fact=52  heap=128236 Compiled:Jan02'20-23:33:29 by version 9.8 "ekcbot"
+Used 56MB: dict 269,856 (21588kb) hashdepths 241.1217.3398.5949.7914.8612.7751.5988.4013.2420.1328.672.286.139.44.20.7.1.1. words 269856 unusedbuckets 241 fact 215,714 (10354kb) heap 13291kb
+           buffer (6400kb) cache (5000kb)
+Free 114MB: dict 1,827,294 fact 584,286 stack/heap 86,708KB 
+
+    *** Server WIDE OPEN to :command use.
+Server ready - logfile:LOGS/serverlog1024.txt serverLog:1 userLog:1
+
+Respond: user:ekc bot:ekcbot ip:127.0.0.1 (��Why:~introductions.2.0.~control.9.0 ) -1 :restart  ==> Restarted  When:Jan02 23:33:56 5506ms n here before?
+ServerPre: pid: x ekc (ekcbot) size:20 음악 좋아해요? Jan 02 23:34:36 2020
+Respond: user:ekc bot:ekcbot ip:127.0.0.1 (~kpop) 1 음악 좋아해요?  ==> 저는 K-POP 좋아해요.  When:Jan02 23:34:36 66ms Why:~kpop.1.0=FAVEKPOP.~kpop.2.0 
+ServerPre: pid: x ekc (ekcbot) size:29 투애니원을 좋아해요? Jan 02 23:43:59 2020
+Respond: user:ekc bot:ekcbot ip:127.0.0.1 (~introductions) 1 투애니원을 좋아해요?  ==> Have you been here before?  When:Jan02 23:43:59 60ms Why:~introductions.2.0.~control.9.0 
+ServerPre: pid: x ekc (ekcbot) size:8 :restart Jan 02 23:44:34 2020
+System startup createsystem Thu Jan 02 23:44:34 2020
+Server ChatScript Release Version 9.8 pid: 0 32 bit Windows compiled Nov 10 2019 08:28:05 host=0.0.0.0
+Params:   dict:2097151 fact:800000 text:100000kb hash:50000 
+          buffer:80x80kb cache:1x5000kb userfacts:100 outputlimit:80000 loglimit:80000
+Build0:  dict=68809  fact=129359  heap=1157724 Compiled:Nov10'19-08:18:14 by version 9.8 "0"
+Build1:  dict=404  fact=398  heap=133888 Compiled:Jan02'20-23:44:11 by version 9.8 "ekcbot"
+Used 56MB: dict 270,220 (21617kb) hashdepths 241.1212.3373.5934.7901.8601.7768.6001.4019.2438.1330.681.289.140.44.20.7.1.1. words 270220 unusedbuckets 241 fact 216,060 (10370kb) heap 13297kb
+           buffer (6400kb) cache (5000kb)
+Free 114MB: dict 1,826,930 fact 583,940 stack/heap 86,702KB 
+
+    *** Server WIDE OPEN to :command use.
+Server ready - logfile:LOGS/serverlog1024.txt serverLog:1 userLog:1
+
+Respond: user:ekc bot:ekcbot ip:127.0.0.1 (��Why:~introductions.2.0.~control.9.0 ) -1 :restart  ==> Restarted  When:Jan02 23:44:39 5392ms n here before?
+ServerPre: pid: x ekc (ekcbot) size:29 투애니원을 좋아해요? Jan 02 23:44:45 2020
+Respond: user:ekc bot:ekcbot ip:127.0.0.1 (~introductions) 1 투애니원을 좋아해요?  ==> Have you been here before?  When:Jan02 23:44:45 89ms Why:~introductions.2.0.~control.9.0 
+ServerPre: pid: x ekc (ekcbot) size:8 :restart Jan 02 23:45:00 2020
+System startup createsystem Thu Jan 02 23:45:00 2020
+Server ChatScript Release Version 9.8 pid: 0 32 bit Windows compiled Nov 10 2019 08:28:05 host=0.0.0.0
+Params:   dict:2097151 fact:800000 text:100000kb hash:50000 
+          buffer:80x80kb cache:1x5000kb userfacts:100 outputlimit:80000 loglimit:80000
+Build0:  dict=68809  fact=129359  heap=1157724 Compiled:Nov10'19-08:18:14 by version 9.8 "0"
+Build1:  dict=404  fact=398  heap=133888 Compiled:Jan02'20-23:44:11 by version 9.8 "ekcbot"
+Used 56MB: dict 270,220 (21617kb) hashdepths 241.1212.3373.5934.7901.8601.7768.6001.4019.2438.1330.681.289.140.44.20.7.1.1. words 270220 unusedbuckets 241 fact 216,060 (10370kb) heap 13297kb
+           buffer (6400kb) cache (5000kb)
+Free 114MB: dict 1,826,930 fact 583,940 stack/heap 86,702KB 
+
+    *** Server WIDE OPEN to :command use.
+Server ready - logfile:LOGS/serverlog1024.txt serverLog:1 userLog:1
+
+Respond: user:ekc bot:ekcbot ip:127.0.0.1 (��Why:~introductions.2.0.~control.9.0 ) -1 :restart  ==> Restarted  When:Jan02 23:45:06 5408ms n here before?
+ServerPre: pid: x ekc (ekcbot) size:6 :reset Jan 02 23:45:06 2020
+Respond: user:ekc bot:ekcbot ip:127.0.0.1 (~introductions) 0 :reset  ==> Welcome to ChatScript.  When:Jan02 23:45:06 79ms Why:~introductions.1.0.~control.0.0 
+ServerPre: pid: x ekc (ekcbot) size:29 투애니원을 좋아해요? Jan 02 23:45:12 2020
+Respond: user:ekc bot:ekcbot ip:127.0.0.1 (~introductions) 1 투애니원을 좋아해요?  ==> Have you been here before?  When:Jan02 23:45:12 47ms Why:~introductions.2.0.~control.9.0 
+ServerPre: pid: x ekc (ekcbot) size:20 음악 좋아해요? Jan 02 23:47:46 2020
+Respond: user:ekc bot:ekcbot ip:127.0.0.1 (~kpop) 1 음악 좋아해요?  ==> 저는 K-POP 좋아해요.  When:Jan02 23:47:46 60ms Why:~kpop.1.0=FAVEKPOP.~kpop.3.0 
+ServerPre: pid: x ekc (ekcbot) size:26 투애니원 좋아해요? Jan 02 23:47:52 2020
+Respond: user:ekc bot:ekcbot ip:127.0.0.1 (~kpop) 2 투애니원 좋아해요?  ==> 예. 저는 투애니원을 아주 좋아해요.  When:Jan02 23:47:52 82ms Why:~kpop.4.0.~control.9.0 
+ServerPre: pid: x ekc (ekcbot) size:29 투애니원을 좋아해요? Jan 02 23:48:02 2020
+Respond: user:ekc bot:ekcbot ip:127.0.0.1 (~kpop) 3 투애니원을 좋아해요?  ==> 혹시 K-POP 좋아하세요?  When:Jan02 23:48:02 71ms Why:~kpop.0.0=KPOPINTRO.~control.9.0 
+ServerPre: pid: x ekc (ekcbot) size:46 티아라가 부르는 노래를 좋아해요? Jan 02 23:48:20 2020
+Respond: user:ekc bot:ekcbot ip:127.0.0.1 (~kpop) 4 티아라가 부르는 노래를 좋아해요?  ==> 저는 투애니원을 좋아해요.  When:Jan02 23:48:20 47ms Why:~kpop.2.0=TNO.~control.9.0 
+ServerPre: pid: x ekc (ekcbot) size:46 티아라가 부르는 노래를 좋아해요? Jan 02 23:48:30 2020
+Respond: user:ekc bot:ekcbot ip:127.0.0.1 (~childhood) 5 티아라가 부르는 노래를 좋아해요?  ==> Did you run away from home when you were little?  When:Jan02 23:48:30 70ms Why:~childhood.0.0.~control.9.0 
+ServerPre: pid: x ekc (ekcbot) size:20 음악 좋아해요? Jan 02 23:48:33 2020
+Respond: user:ekc bot:ekcbot ip:127.0.0.1 (~kpop) 6 음악 좋아해요?  ==> 저는 K-POP 좋아해요.  When:Jan02 23:48:33 84ms Why:~kpop.1.0=FAVEKPOP.~kpop.3.0 
+ServerPre: pid: x ekc (ekcbot) size:0  Jan 02 23:48:33 2020
+Start: user:ekc bot:ekcbot ip:127.0.0.1 (~introductions) 6 ==> Hi.  When:Jan02 23:48:33 48ms Why:~introductions.0.0.~control.0.0  Version:9.8 Build0:Nov10'19-08:18:14 Build1:Jan02'20-23:44:11 Why:~introductions.0.0.~control.0.0 
+ServerPre: pid: x ekc (ekcbot) size:23 티아라 좋아해요? Jan 02 23:48:38 2020
+Respond: user:ekc bot:ekcbot ip:127.0.0.1 (~introductions) 7 티아라 좋아해요?  ==> Have you been here before?  When:Jan02 23:48:39 105ms Why:~introductions.2.0.~control.9.0 
+ServerPre: pid: x ekc (ekcbot) size:26 투애니원 좋아해요? Jan 02 23:48:43 2020
+Respond: user:ekc bot:ekcbot ip:127.0.0.1 (~kpop) 8 투애니원 좋아해요?  ==> 예. 저는 투애니원을 아주 좋아해요.  When:Jan02 23:48:43 56ms Why:~kpop.4.0.~control.9.0 
+ServerPre: pid: x ekc (ekcbot) size:8 :restart Jan 02 23:48:51 2020
+System startup createsystem Thu Jan 02 23:48:51 2020
+Server ChatScript Release Version 9.8 pid: 0 32 bit Windows compiled Nov 10 2019 08:28:05 host=0.0.0.0
+Params:   dict:2097151 fact:800000 text:100000kb hash:50000 
+          buffer:80x80kb cache:1x5000kb userfacts:100 outputlimit:80000 loglimit:80000
+Build0:  dict=68809  fact=129359  heap=1157724 Compiled:Nov10'19-08:18:14 by version 9.8 "0"
+Build1:  dict=387  fact=372  heap=133608 Compiled:Jan02'20-23:47:36 by version 9.8 "ekcbot"
+Used 56MB: dict 270,203 (21616kb) hashdepths 241.1212.3374.5936.7903.8598.7768.5999.4020.2437.1332.680.288.140.44.20.7.1.1. words 270203 unusedbuckets 241 fact 216,034 (10369kb) heap 13296kb
+           buffer (6400kb) cache (5000kb)
+Free 114MB: dict 1,826,947 fact 583,966 stack/heap 86,703KB 
+
+    *** Server WIDE OPEN to :command use.
+Server ready - logfile:LOGS/serverlog1024.txt serverLog:1 userLog:1
+
+Respond: user:ekc bot:ekcbot ip:127.0.0.1 (��Why:~kpop.4.0.~control.9.0 ) -1 :restart  ==> Restarted  When:Jan02 23:48:56 5312ms 투애니원을 아주 좋아해요.
+ServerPre: pid: x ekc (ekcbot) size:6 :reset Jan 02 23:49:02 2020
+Respond: user:ekc bot:ekcbot ip:127.0.0.1 (~introductions) 0 :reset  ==> Welcome to ChatScript.  When:Jan02 23:49:03 78ms Why:~introductions.1.0.~control.0.0 
+ServerPre: pid: x ekc (ekcbot) size:29 투애니원을 좋아해요? Jan 02 23:49:11 2020
+Respond: user:ekc bot:ekcbot ip:127.0.0.1 (~introductions) 1 투애니원을 좋아해요?  ==> Have you been here before?  When:Jan02 23:49:11 60ms Why:~introductions.2.0.~control.9.0 
+ServerPre: pid: x ekc (ekcbot) size:19 :build ekcbot reset Jan 02 23:49:20 2020
+System startup ekcbot reset Thu Jan 02 23:49:20 2020
+System startup createsystem Thu Jan 02 23:49:21 2020
+Server ChatScript Release Version 9.8 pid: 0 32 bit Windows compiled Nov 10 2019 08:28:05 host=0.0.0.0
+Params:   dict:2097151 fact:800000 text:100000kb hash:50000 
+          buffer:80x80kb cache:1x5000kb userfacts:100 outputlimit:80000 loglimit:80000
+Build0:  dict=68809  fact=129359  heap=1157724 Compiled:Nov10'19-08:18:14 by version 9.8 "0"
+Build1:  dict=387  fact=372  heap=133608 Compiled:Jan02'20-23:49:20 by version 9.8 "ekcbot"
+Used 56MB: dict 270,203 (21616kb) hashdepths 241.1212.3374.5936.7903.8598.7768.5999.4020.2437.1332.680.288.140.44.20.7.1.1. words 270203 unusedbuckets 241 fact 216,034 (10369kb) heap 13296kb
+           buffer (6400kb) cache (5000kb)
+Free 114MB: dict 1,826,947 fact 583,966 stack/heap 86,703KB 
+
+    *** Server WIDE OPEN to :command use.
+Respond: user:ekc bot:ekcbot ip:127.0.0.1 () 0 :build ekcbot reset  ==> System startup ekcbot reset Thu Jan 02 23:49:20 2020  ChatScript Version 9.8  compiled Nov 10 2019 08:28:05    WARNING SUMMARY:     line 6 of : Undefined set or topic ~quibble_all line 100 column 35 in simplecontrol.top  1 serious warnings, 0 function warnings, 0 spelling warnings, 2 case warnings, 0 substitution warnings          Finished compile    System startup createsystem Thu Jan 02 23:49:21 2020  Server ChatScript Release Version 9.8 pid: 0 32 bit Windows compiled Nov 10 2019 08:28:05 host=0.0.0.0  Params:   dict:2097151 fact:800000 text:100000kb hash:50000             buffer:80x80kb cache:1x5000kb userfacts:100 outputlimit:80000 loglimit:80000  Build0:  dict=68809  fact=129359  heap=1157724 Compiled:Nov10'19-08:18:14 by version 9.8 "0"  Build1:  dict=387  fact=372  heap=133608 Compiled:Jan02'20-23:49:20 by version 9.8 "ekcbot"  Used 56MB: dict 270,203 (21616kb) hashdepths 241.1212.3374.5936.7903.8598.7768.5999.4020.2437.1332.680.288.140.44.20.7.1.1. words 270203 unusedbuckets 241 fact 216,034 (10369kb) heap 13296kb             buffer (6400kb) cache (5000kb)  Free 114MB: dict 1,826,947 fact 583,966 stack/heap 86,703KB         *** Server WIDE OPEN to :command use.    When:Jan02 23:49:27 7429ms 
+ServerPre: pid: x ekc (ekcbot) size:20 음악 좋아해요? Jan 02 23:49:45 2020
+Respond: user:ekc bot:ekcbot ip:127.0.0.1 (~kpop) 1 음악 좋아해요?  ==> 저는 K-POP 좋아해요.  When:Jan02 23:49:45 57ms Why:~kpop.1.0=FAVEKPOP.~kpop.3.0 
+ServerPre: pid: x ekc (ekcbot) size:29 투애니원을 좋아해요? Jan 02 23:49:51 2020
+Respond: user:ekc bot:ekcbot ip:127.0.0.1 (~kpop) 2 투애니원을 좋아해요?  ==> 혹시 K-POP 좋아하세요?  When:Jan02 23:49:51 113ms Why:~kpop.0.0=KPOPINTRO.~control.9.0 
+ServerPre: pid: x ekc (ekcbot) size:26 투애니원 좋아해요? Jan 02 23:49:56 2020
+Respond: user:ekc bot:ekcbot ip:127.0.0.1 (~kpop) 3 투애니원 좋아해요?  ==> 예. 저는 투애니원을 아주 좋아해요.  When:Jan02 23:49:56 73ms Why:~kpop.4.0.~control.9.0 
+ServerPre: pid: x ekc (ekcbot) size:19 :concepts 티아라 Jan 02 23:50:25 2020
+Respond: user:ekc bot:ekcbot ip:127.0.0.1 (��Why:~kpop.4.0.~control.9.0 ) 0 :concepts 티아라  ==> 티아라:     When:Jan02 23:50:25 68ms ��니원을 아주 좋아해요.
+ServerPre: pid: x ekc (ekcbot) size:22 :concepts 투애니원 Jan 02 23:50:40 2020
+Respond: user:ekc bot:ekcbot ip:127.0.0.1 (��Why:~kpop.4.0.~control.9.0 ) 0 :concepts 투애니원  ==> 투애니원:     When:Jan02 23:50:40 69ms ��원을 아주 좋아해요.
+ServerPre: pid: x ekc (ekcbot) size:22 concepts: 티아라가 Jan 02 23:50:52 2020
+Respond: user:ekc bot:ekcbot ip:127.0.0.1 (~kpop) 4 concepts: 티아라가  ==> 저는 투애니원을 좋아해요.  When:Jan02 23:50:52 70ms Why:~kpop.2.0=TNO.~control.9.0 
+ServerPre: pid: x ekc (ekcbot) size:22 :concepts 티아라가 Jan 02 23:51:05 2020
+Respond: user:ekc bot:ekcbot ip:127.0.0.1 (��Why:~kpop.2.0=TNO.~control.9.0 ) 0 :concepts 티아라가  ==> 티아라가:     When:Jan02 23:51:05 77ms 을 좋아해요.
+ServerPre: pid: x ekc (ekcbot) size:8 :restart Jan 03 00:12:11 2020
+System startup createsystem Fri Jan 03 00:12:11 2020
+Server ChatScript Release Version 9.8 pid: 0 32 bit Windows compiled Nov 10 2019 08:28:05 host=0.0.0.0
+Params:   dict:2097151 fact:800000 text:100000kb hash:50000 
+          buffer:80x80kb cache:1x5000kb userfacts:100 outputlimit:80000 loglimit:80000
+Build0:  dict=68809  fact=129359  heap=1157724 Compiled:Nov10'19-08:18:14 by version 9.8 "0"
+Build1:  dict=387  fact=372  heap=133608 Compiled:Jan03'20-00:11:48 by version 9.8 "ekcbot"
+Used 56MB: dict 270,203 (21616kb) hashdepths 241.1212.3374.5936.7903.8598.7768.5999.4020.2437.1332.680.288.140.44.20.7.1.1. words 270203 unusedbuckets 241 fact 216,034 (10369kb) heap 13296kb
+           buffer (6400kb) cache (5000kb)
+Free 114MB: dict 1,826,947 fact 583,966 stack/heap 86,703KB 
+
+    *** Server WIDE OPEN to :command use.
+Server ready - logfile:LOGS/serverlog1024.txt serverLog:1 userLog:1
+
+Respond: user:ekc bot:ekcbot ip:127.0.0.1 (��을 좋아해요.) -1 :restart  ==> Restarted  When:Jan03 00:12:17 5476ms : 
+
+ServerPre: pid: x ekc (ekcbot) size:6 :reset Jan 03 00:12:17 2020
+Respond: user:ekc bot:ekcbot ip:127.0.0.1 (~introductions) 0 :reset  ==> Welcome to ChatScript.  When:Jan03 00:12:17 81ms Why:~introductions.1.0.~control.0.0 
+ServerPre: pid: x ekc (ekcbot) size:20 음악 좋아해요? Jan 03 00:12:21 2020
+Respond: user:ekc bot:ekcbot ip:127.0.0.1 (~kpop) 1 음악 좋아해요?  ==> 저는 K-POP 좋아해요.  When:Jan03 00:12:21 88ms Why:~kpop.1.0=FAVEKPOP.~kpop.3.0 
+ServerPre: pid: x ekc (ekcbot) size:26 투애니원 좋아해요? Jan 03 00:12:26 2020
+Respond: user:ekc bot:ekcbot ip:127.0.0.1 (~kpop) 2 투애니원 좋아해요?  ==> 예. 저는 투애니원을 아주 좋아해요.  When:Jan03 00:12:26 57ms Why:~kpop.4.0.~control.9.0 
+ServerPre: pid: x ekc (ekcbot) size:29 투애니원을 좋아해요? Jan 03 00:12:29 2020
+Respond: user:ekc bot:ekcbot ip:127.0.0.1 (~kpop) 3 투애니원을 좋아해요?  ==> 혹시 K-POP 좋아하세요?  When:Jan03 00:12:29 105ms Why:~kpop.0.0=KPOPINTRO.~control.9.0 
+ServerPre: pid: x ekc (ekcbot) size:20 음악 좋아해요? Jan 03 00:16:34 2020
+Respond: user:ekc bot:ekcbot ip:127.0.0.1 (~kpop) 4 음악 좋아해요?  ==> 저는 K-POP 좋아해요.  When:Jan03 00:16:34 89ms Why:~kpop.1.0=FAVEKPOP.~kpop.3.0 

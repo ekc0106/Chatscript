@@ -1,0 +1,50 @@
+
+concept: ~투애니원사전 NOUN_PROPER_SINGULAR [ 투애니원 2ne1 twoanyone 뚜애니원 투에니원 ]
+concept: ~티아라사전 NOUN_PROPER_SINGULAR [ 티아라 TARA t-ara ]
+concept: ~마마무사전 NOUN_PROPER_SINGULAR [ 마마무 맘마무 mamamoo ]
+
+concept: ~투애니원 [ 투애니원 2ne1 twoanyone 뚜애니원 투에니원 ]
+concept: ~티아라 [ 티아라 tara t-ara ]
+concept: ~마마무 [ 마마무 맘마무 mamamoo ]
+concept: ~노래 [ 노래 곡 음악 kpop 가사 song 공연 공연장 콘서트 ]
+
+tablemacro: ^NounPlusPP(^Origin ^pp)
+{
+	loop()
+	{
+		$$element = ^iterator(? member ^Origin)
+		$$tmp = join($$element ^pp)
+		^createfact($$tmp memeber $$element)
+		
+	}
+}
+tablemacro: ^addElement(^Dics ^Origin)
+{
+	loop()
+	{
+		$$element = ^iterator(? member ^Origin)
+		^query(? member $$element)
+		^createfact(@0subject member ^Dics)
+		^createfact(@0subject member ^Origin)
+	}
+}
+
+table: ^NounPlusPP(~투애니원)
+은 이 을 과 이랑 하고 에게 의 보다 도 부터 까지 마저 조차 이야말로 이요
+table: ^addElement(~투애니원사전)
+~투애니원사전
+
+table: ^NounPlusPP(~티아라)
+는 가 를 와 랑 하고 에게 의 보다 도 부터 까지 마저 조차 야말로 요
+table: ^addElement(~티아라사전)
+~티아라
+
+table: ^NounPlusPP(~마마무)
+는 가 를 와 랑 하고 에게 의 보다 도 부터 까지 마저 조차 야말로 요
+table: ^addElement(~마마무사전)
+~마마무
+
+table: ^NounPlusPP(~노래)
+는 가 를 와 랑 하고 에게 의 보다 도 부터 까지 마저 조차 야말로 요
+table: ^addElement(~노래사전)
+~노래

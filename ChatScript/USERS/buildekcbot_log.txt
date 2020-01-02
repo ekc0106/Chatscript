@@ -1,0 +1,51 @@
+﻿ChatScript Version 9.8  compiled Nov 10 2019 08:28:05
+
+>>Reading folder ../ekcbot/
+
+----Reading file childhood.top
+Reading topic ~childhood
+*** Warning- line 34 column 0 of childhood.top: Word "snake" known in multiple spellings snake Snake 
+*** Warning- line 59 column 0 of childhood.top: Word "as" known in multiple spellings as AS 
+
+----Reading file introductions.top
+Reading topic ~introductions
+
+----Reading file keywordless.top
+Reading topic ~keywordless
+
+----Reading file kpop.top
+Reading topic ~kpop
+
+----Reading file kpopconcept.top
+Reading concept ~투애니원사전
+Reading concept ~티아라사전
+Reading concept ~마마무사전
+Reading concept ~투애니원
+Reading concept ~티아라
+*** Warning- line 7 column 36 of kpopconcept.top: Word tara only known in upper case
+Reading concept ~마마무
+Reading concept ~노래
+Reading tablemacro: ^nounpluspp
+Reading tablemacro: ^addelement
+Illegal query name: ?   in kpopconcept.top at 35: 
+    Illegal query name: ?   in kpopconcept.top at 40: 
+    Illegal query name: ?   in kpopconcept.top at 45: 
+    Illegal query name: ?   in kpopconcept.top at 50: 
+    
+----Reading file simplecontrol.top
+Reading outputmacro: ^ekcbot
+Reading table ^tbl:defaultbot
+Reading topic ~control
+Reading topic ~xpostprocess
+
+<<end folder ../ekcbot
+*** Warning-  Undefined set or topic ~quibble_all line 100 column 35 in simplecontrol.top
+
+WARNING SUMMARY: 
+  line 7 of kpopconcept.top: Word tara only known in upper case
+  line 6 of : Undefined set or topic ~quibble_all line 100 column 35 in simplecontrol.top
+2 serious warnings, 0 function warnings, 0 spelling warnings, 2 case warnings, 0 substitution warnings
+    
+
+Finished compile
+

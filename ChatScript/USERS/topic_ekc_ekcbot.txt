@@ -1,0 +1,33 @@
+USERS/topic_ekc_ekcbot.txt
+jul2116 Jan02'20-23:12:25 Jan03'20-00:16:34 0 |
+1 4 0 DY 0 6 6 0 # start, input#, no rejoinder, #0topics, #1topics, layer2
+~introductions ~kpop #pending
+~kpop + 1 VMUd2 ma 4 0 0 
+#`end topics
+$shutup=1
+$singleresponse=1
+$botprompt=ekcbot: 
+$userprompt=ekc: >
+$cs_control_main=~control
+$cs_token=75726583
+$cs_login=ekc
+$cs_bot=Ekcbot
+$cs_randindex=3768
+$cs_trace=0
+$cs_time=0
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context ~kpop 4 FAVEKPOP ~kpop 1 FAVEKPOP ~kpop 3 KPOPINTRO 
+ 음악 좋아해요?
+ 투애니원 좋아해요?
+ 투애니원을 좋아해요?
+ 음악 좋아해요?
+#`end user
+ Welcome to ChatScript.
+ 저는 K-POP 좋아해요.
+ 예. 저는 투애니원을 아주 좋아해요.
+ 혹시 K-POP 좋아하세요?
+ 저는 K-POP 좋아해요.
+#`end chatbot
