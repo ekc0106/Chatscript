@@ -1,0 +1,4 @@
+
+Topic: ~POP keep repeat [ ~지역 ~남자 ~여자 ~내국인 ~외국인 ~그리다]
+#! ~~구 그래프 그려줘
+u: ( ~지역 * ~그리다 ) list_tmp <- list(districts = c('은평구'), states = NA); gg_function(list_tmp$districts, list_tmp$states)
