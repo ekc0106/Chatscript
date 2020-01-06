@@ -5,12 +5,13 @@ concept: ~여자사전 NOUN_PROPER_SINGULAR [ 여자 여성 ]
 concept: ~내국인사전 NOUN_PROPER_SINGULAR [ 내국인 서울시민 "서울 시민" 국민 자국민 서울사람 "서울 사람" 우리나라 "우리 나라" ]
 concept: ~외국인사전 NOUN_PROPER_SINGULAR [ 외국인 외국 외국사람 "외국 사람" ]
 
-concept: ~지역 [ 서울 종로 중 용산 성동 광진 동대문 중랑 성북 강북 도봉 노원 은평 서대문 마포 양천 강서 구로 금천 영등포 동작 관악 서초 강남 송파 강동 ]
+concept: ~지역 [ 종로 중 용산 성동 광진 동대문 중랑 성북 강북 도봉 노원 은평 서대문 마포 양천 강서 구로 금천 영등포 동작 관악 서초 강남 송파 강동 ]
 concept: ~남자 [ 남자 남성 ]
 concept: ~여자 [ 여자 여성 ]
 concept: ~내국인 [ 내국인 서울시민 "서울 시민" 국민 자국민 서울사람 "서울 사람" 우리나라 "우리 나라" ]
 concept: ~외국인 [ 외국인 외국 외국사람 "외국 사람" ]
-concept: ~그리다 [ 그려줘 그려줘요 그려주라 그리세요 그려주세요 그려주십시오 그려주십쇼 그려주십시요 그려 그림 그리삼 그려라 그래프 ]
+concept: ~그리다 VERB [ 그려줘 그려줘요 그려주라 그리세요 그려주세요 그려주십시오 그려주십쇼 그려주십시요 그려 그림 그리삼 그려라 그래프 ]
+
 
 tablemacro: ^NounPlusPP(^Origin ^pp)
 {
@@ -34,26 +35,26 @@ tablemacro: ^addElement(^Dics ^Origin)
 }
 
 table: ^NounPlusPP(~지역)
-구 시 의 구의 시의 
+구 의 구의
 table: ^addElement(~지역사전)
 ~지역사전
 
 table: ^NounPlusPP(~남자)
-의 들의 
+의 들의  들
 table: ^addElement(~남자사전)
 ~남자
 
 table: ^NounPlusPP(~여자)
-의 들의
+의 들의 들
 table: ^addElement(~여자사전)
 ~여자
 
 table: ^NounPlusPP(~내국인)
-의 들의 
+의 들의 들
 table: ^addElement(~내국인사전)
 ~내국인
 
 table: ^NounPlusPP(~외국인)
-의 들의 
+의 들의 들
 table: ^addElement(~외국인사전)
 ~외국인

@@ -1,4 +1,9 @@
 
 Topic: ~POP keep repeat [ ~지역 ~남자 ~여자 ~내국인 ~외국인 ~그리다]
 #! ~~구 그래프 그려줘
-u: ( ~지역 * ~그리다 ) list_tmp <- list(districts = c('은평구'), states = NA); gg_function(list_tmp$districts, list_tmp$states)
+u: ( _~지역 _* ~그리다 ) keep() $dis=_0 $stat=_1
+	
+	if($stat ? ~내국인) {list.tmp <- list(districts = c(' $dis'), states = '내국인'); gg.function(list.tmp$districts, list.tmp$states)}
+	else if ($stat ? ~외국인)	{list.tmp <- list(districts = c(' $dis'), states = '외국인'); gg.function(list.tmp$districts, list.tmp$states)}
+	else {list.tmp <- list(districts = c(' $dis'), states = NA); gg.function(list.tmp$districts, list.tmp$states)}
+	
